@@ -1,0 +1,91 @@
+Pirate: Stede Bonnet
+    Title: (None)
+    Captain: (None)
+    Vessel: (None)
+    Treasure: 2
+    Favorite Port of Call: Charleston
+    Skills: Fishing *
+            Music *
+
+Pirate: Mary Read
+    Title: Second Mate
+    Captain: Black Bart Roberts
+        Captain's Title: Captain
+        Captain's Favorite Port of Call: Ouidah
+    Vessel: Adventure
+    Treasure: 4
+    Favorite Port of Call: Kingston
+    Skills: Disguise *
+            Swordfighting *
+
+Pirate: Blackbeard
+    Title: Captain
+    Captain: Anne Bonny
+        Captain's Title: (None)
+        Captain's Favorite Port of Call: Tortuga
+    Vessel: Queen Anne's Revenge
+    Treasure: 10
+    Favorite Port of Call: Nassau
+    Skills: Intimidation *
+            Navigation *
+            Swordfighting *
+
+Pirate: Jack Rackham
+    Title: First Mate
+    Captain: Calico Jack
+        Captain's Title: Quartermaster
+        Captain's Favorite Port of Call: Havana
+    Vessel: Ranger
+    Treasure: 3
+    Favorite Port of Call: Port Royal
+    Skills: Knot tying *
+            Ship maintenance *
+
+Pirate: Anne Bonny
+    Title: (None)
+    Captain: (None)
+    Vessel: Revenge
+    Treasure: 5
+    Favorite Port of Call: Tortuga
+    Skills: Hand-to-hand combat *
+            Pistol shooting *
+
+Pirate: Edward Teach
+    Title: Captain
+    Captain: (None)
+    Vessel: Revenge
+    Treasure: 20
+    Favorite Port of Call: Ocracoke
+    Skills: Manipulation *
+            Strategy *
+
+Pirate: Black Bart Roberts
+    Title: Captain
+    Captain: (None)
+    Vessel: Royal Fortune
+    Treasure: 15
+    Favorite Port of Call: Ouidah
+    Skills: Leadership *
+            Navigation *
+
+Pirate: Anne Dieu-le-Veut
+    Title: Navigator
+    Captain: Stede Bonnet
+        Captain's Title: (None)
+        Captain's Favorite Port of Call: Charleston
+    Vessel: Victoire
+    Treasure: 6
+    Favorite Port of Call: La Tortue
+    Skills: Astronomy *
+            Cartography *
+
+Pirate: Calico Jack
+    Title: Quartermaster
+    Captain: (None)
+    Vessel: William
+    Treasure: 8
+    Favorite Port of Call: Havana
+    Skills: Cannon firing *
+            Card playing *
+            Drinking *
+

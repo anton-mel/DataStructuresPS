@@ -1,0 +1,82 @@
+Pirate: Anne Bonny
+    Title: First Mate
+    Captain: (None)
+    Vessel: Revenge
+    Treasure: 5
+    Favorite Port of Call: Tortuga
+    Skills: Hand-to-hand combat *
+            Pistol shooting *
+
+Pirate: Anne Dieu-le-Veut
+    Title: Navigator
+    Captain: Stede Bonnet
+        Captain's Title: Captain
+        Captain's Favorite Port of Call: Charleston
+    Vessel: Victoire
+    Treasure: 6
+    Favorite Port of Call: La Tortue
+    Skills: Astronomy *
+            Cartography *
+
+Pirate: Black Bart Roberts
+    Title: Captain
+    Captain: (None)
+    Vessel: Royal Fortune
+    Treasure: 15
+    Favorite Port of Call: Ouidah
+    Skills: Leadership *
+            Navigation *
+
+Pirate: Blackbeard
+    Title: Captain
+    Captain: Anne Bonny
+        Captain's Title: First Mate
+        Captain's Favorite Port of Call: Tortuga
+    Vessel: Queen Anne's Revenge
+    Treasure: 10
+    Favorite Port of Call: Nassau
+    Skills: Intimidation *
+            Navigation *
+            Swordfighting *
+
+Pirate: Calico Jack
+    Title: Captain
+    Captain: (None)
+    Vessel: William
+    Treasure: 8
+    Favorite Port of Call: Havana
+    Skills: Cannon firing *
+            Card playing *
+            Drinking *
+
+Pirate: Jack Rackham
+    Title: Quartermaster
+    Captain: Calico Jack
+        Captain's Title: Captain
+        Captain's Favorite Port of Call: Havana
+    Vessel: Ranger
+    Treasure: 3
+    Favorite Port of Call: Port Royal
+    Skills: Knot tying *
+            Ship maintenance *
+
+Pirate: Mary Read
+    Title: Second Mate
+    Captain: Black Bart Roberts
+        Captain's Title: Captain
+        Captain's Favorite Port of Call: Ouidah
+    Vessel: Adventure
+    Treasure: 4
+    Favorite Port of Call: Kingston
+    Skills: Disguise *
+            Swordfighting *
+
+Pirate: Stede Bonnet
+    Title: Captain
+    Captain: (None)
+    Vessel: Revenge
+    Treasure: 2
+    Favorite Port of Call: Charleston
+    Skills: Fishing *
+            Music *
+

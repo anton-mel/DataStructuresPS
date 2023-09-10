@@ -1,0 +1,98 @@
+Pirate: Captain Crimson
+    Title: Captain
+    Captain: Sea Dog
+        Captain's Title: First Mate
+        Captain's Favorite Port of Call: Turtle Bay
+    Vessel: The Crimson Tide
+    Treasure: 30
+    Favorite Port of Call: Jamaica
+    Skills: Intimidation *
+            Ship maintenance *
+
+Pirate: Black Bart
+    Title: Captain
+    Captain: Stormy Seas
+        Captain's Title: (None)
+        Captain's Favorite Port of Call: Caribbean Cove
+    Vessel: The Black Shark
+    Treasure: 28
+    Favorite Port of Call: Antigua
+    Skills: Cannon firing *
+            Hand-to-hand combat *
+            Navigation *
+            Swordfighting *
+
+Pirate: Captain Blackheart
+    Title: Captain
+    Captain: Redbeard the Ruthless
+        Captain's Title: First Mate
+        Captain's Favorite Port of Call: Tortuga
+    Vessel: The Black Pearl
+    Treasure: 25
+    Favorite Port of Call: Port Royale
+    Skills: Cannon firing *
+            Hand-to-hand combat *
+            Navigation *
+
+Pirate: Mad Dog McGraw
+    Title: Captain
+    Captain: Jolly Roger
+        Captain's Title: Quartermaster
+        Captain's Favorite Port of Call: Barbados
+    Vessel: The Salty Dog
+    Treasure: 20
+    Favorite Port of Call: New Providence
+    Skills: Card playing *
+            Drinking *
+            Manipulation *
+            Strategy *
+
+Pirate: Jolly Roger
+    Title: Quartermaster
+    Captain: (None)
+    Vessel: The Jolly Roger
+    Treasure: 18
+    Favorite Port of Call: Barbados
+    Skills: Astronomy *
+            Leadership *
+
+Pirate: Redbeard the Ruthless
+    Title: First Mate
+    Captain: (None)
+    Vessel: The Bloody Dagger
+    Treasure: 15
+    Favorite Port of Call: Tortuga
+    Skills: Leadership *
+            Swordfighting *
+
+Pirate: Sea Dog
+    Title: First Mate
+    Captain: (None)
+    Vessel: The Sea Rover
+    Treasure: 12
+    Favorite Port of Call: Turtle Bay
+    Skills: Fishing *
+            Knot tying *
+
+Pirate: Ironhook
+    Title: Quartermaster
+    Captain: Stormy Seas
+        Captain's Title: (None)
+        Captain's Favorite Port of Call: Caribbean Cove
+    Vessel: The Iron Maiden
+    Treasure: 10
+    Favorite Port of Call: Portsmouth
+    Skills: Cartography *
+            Knot tying *
+            Navigational astronomy *
+
+Pirate: Stormy Seas
+    Title: (None)
+    Captain: (None)
+    Vessel: (None)
+    Treasure: 8
+    Favorite Port of Call: Caribbean Cove
+    Skills: Disguise *
+            Pistol shooting *
+            Swimming *
+

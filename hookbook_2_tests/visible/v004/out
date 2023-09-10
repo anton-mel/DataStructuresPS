@@ -1,0 +1,85 @@
+Pirate: Anne Bonny
+    Title: First Mate
+    Captain: Black Sam Bellamy
+        Captain's Title: Captain
+        Captain's Favorite Port of Call: Cape Cod
+    Vessel: (None)
+    Treasure: 11
+    Favorite Port of Call: (None)
+    Skills: Disguise *
+            Pistol shooting *
+
+Pirate: Black Sam Bellamy
+    Title: Captain
+    Captain: Edward Teach
+        Captain's Title: (None)
+        Captain's Favorite Port of Call: (None)
+    Vessel: The Whydah
+    Treasure: 0
+    Favorite Port of Call: Cape Cod
+    Skills: Cannon firing *
+            Hand-to-hand combat *
+            Navigation *
+
+Pirate: Blackbeard
+    Title: Captain
+    Captain: Anne Bonny
+        Captain's Title: First Mate
+        Captain's Favorite Port of Call: (None)
+    Vessel: The Queen Anne's Revenge
+    Treasure: 14
+    Favorite Port of Call: (None)
+    Skills: Hand-to-hand combat *
+            Navigation *
+
+Pirate: Calico Jack
+    Title: Captain
+    Captain: Mary Read
+        Captain's Title: (None)
+        Captain's Favorite Port of Call: (None)
+    Vessel: The William
+    Treasure: 8
+    Favorite Port of Call: Nassau
+    Skills: (None)
+
+Pirate: Charles Vane
+    Title: Captain
+    Captain: Henry Every
+        Captain's Title: Captain
+        Captain's Favorite Port of Call: Madagascar
+    Vessel: The Ranger
+    Treasure: 7
+    Favorite Port of Call: Spanish Town
+    Skills: Hand-to-hand combat *
+            Swordfighting *
+
+Pirate: Edward Teach
+    Title: (None)
+    Captain: Charles Vane
+        Captain's Title: Captain
+        Captain's Favorite Port of Call: Spanish Town
+    Vessel: (None)
+    Treasure: 0
+    Favorite Port of Call: (None)
+    Skills: (None)
+
+Pirate: Henry Every
+    Title: Captain
+    Captain: (None)
+    Vessel: The Fancy
+    Treasure: 16
+    Favorite Port of Call: Madagascar
+    Skills: Cannon firing *
+            Leadership *
+            Navigation *
+            Swordfighting *
+
+Pirate: Mary Read
+    Title: (None)
+    Captain: (None)
+    Vessel: (None)
+    Treasure: 9
+    Favorite Port of Call: (None)
+    Skills: Strategy *
+            Swordfighting *
+

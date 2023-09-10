@@ -1,0 +1,44 @@
+name:Blackbeard
+title:Captain
+vessel:The Queen Anne's Revenge
+treasure:14
+skill:Navigation
+skill:Hand-to-hand combat
+name:Calico Jack
+title:Captain
+vessel:The William
+port:Nassau
+treasure:8
+name:Anne Bonny
+title:First Mate
+treasure:11
+skill:Pistol shooting
+skill:Disguise
+name:Mary Read
+treasure:9
+skill:Swordfighting
+skill:Strategy
+name:Black Sam Bellamy
+title:Captain
+vessel:The Whydah
+port:Cape Cod
+skill:Navigation
+skill:Cannon firing
+skill:Hand-to-hand combat
+name:Edward Teach
+name:Charles Vane
+title:Captain
+vessel:The Ranger
+port:Spanish Town
+treasure:7
+skill:Hand-to-hand combat
+skill:Swordfighting
+name:Henry Every
+title:Captain
+vessel:The Fancy
+port:Madagascar
+treasure:16
+skill:Navigation
+skill:Swordfighting
+skill:Leadership
+skill:Cannon firing

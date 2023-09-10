@@ -1,0 +1,68 @@
+name:Captain Blackheart
+title:Captain
+vessel:The Black Pearl
+port:Port Royale
+treasure:25
+skill:Navigation
+skill:Hand-to-hand combat
+skill:Cannon firing
+name:Redbeard the Ruthless
+title:First Mate
+vessel:The Bloody Dagger
+port:Tortuga
+treasure:15
+skill:Swordfighting
+skill:Leadership
+name:Ironhook
+title:Quartermaster
+vessel:The Iron Maiden
+port:Portsmouth
+treasure:10
+skill:Navigational astronomy
+skill:Knot tying
+skill:Cartography
+name:Stormy Seas
+port:Caribbean Cove
+treasure:8
+skill:Pistol shooting
+skill:Disguise
+skill:Swimming
+name:Captain Crimson
+title:Captain
+vessel:The Crimson Tide
+port:Jamaica
+treasure:30
+skill:Ship maintenance
+skill:Intimidation
+name:Sea Dog
+title:First Mate
+vessel:The Sea Rover
+port:Turtle Bay
+treasure:12
+skill:Fishing
+skill:Knot tying
+name:Mad Dog McGraw
+title:Captain
+vessel:The Salty Dog
+port:New Providence
+treasure:20
+skill:Strategy
+skill:Manipulation
+skill:Drinking
+skill:Card playing
+name:Jolly Roger
+title:Quartermaster
+vessel:The Jolly Roger
+port:Barbados
+treasure:18
+skill:Astronomy
+skill:Leadership
+name:Black Bart
+title:Captain
+vessel:The Black Shark
+port:Antigua
+treasure:28
+skill:Navigation
+skill:Swordfighting
+skill:Cannon firing
+skill:Hand-to-hand combat

@@ -1,0 +1,62 @@
+name:Blackbeard
+title:Captain
+port:Nassau
+skill:Swordfighting
+vessel:Queen Anne's Revenge
+skill:Navigation
+treasure:10
+skill:Intimidation
+name:Anne Bonny
+vessel:Revenge
+treasure:5
+port:Tortuga
+skill:Pistol shooting
+skill:Hand-to-hand combat
+name:Jack Rackham
+title:First Mate
+skill:Ship maintenance
+treasure:3
+port:Port Royal
+vessel:Ranger
+skill:Knot tying
+name:Calico Jack
+title:Quartermaster
+skill:Cannon firing
+treasure:8
+vessel:William
+port:Havana
+skill:Drinking
+skill:Card playing
+name:Mary Read
+treasure:4
+port:Kingston
+title:Second Mate
+skill:Disguise
+skill:Swordfighting
+vessel:Adventure
+name:Black Bart Roberts
+port:Ouidah
+skill:Leadership
+treasure:15
+skill:Navigation
+title:Captain
+vessel:Royal Fortune
+name:Anne Dieu-le-Veut
+treasure:6
+port:La Tortue
+skill:Astronomy
+title:Navigator
+skill:Cartography
+vessel:Victoire
+name:Stede Bonnet
+treasure:2
+port:Charleston
+skill:Fishing
+skill:Music
+name:Edward Teach
+title:Captain
+vessel:Revenge
+port:Ocracoke
+treasure:20
+skill:Strategy
+skill:Manipulation
